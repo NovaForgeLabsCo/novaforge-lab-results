@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "NovaForge Labs lab results dataset"
+type: dataset
+authors:
+  - name: "NovaForge Labs"
+url: "https://novaforgelabs.co/lab-results-dataset"
+repository-code: "https://github.com/NovaForgeLabsCo/novaforge-lab-results"
+license: CC-BY-4.0
+keywords: [peptide, certificate of analysis, HPLC, LC-MS, purity, reference materials]
+version: "2026.11"
+date-released: "2026-11-17"
