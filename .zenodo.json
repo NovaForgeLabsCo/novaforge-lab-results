@@ -1,0 +1,9 @@
+{
+  "title": "NovaForge Labs lab results dataset: lot-specific certificates of analysis for research peptides",
+  "upload_type": "dataset",
+  "description": "<p>Every certificate of analysis (COA) published by NovaForge Labs, in one machine-readable CSV: 26 lot-specific results from two independent US laboratories (Freedom Diagnostics: identity by LC-MS, HPLC purity, net content; ILS Laboratories: identity by HPLC retention time vs reference standard, HPLC purity). Median HPLC purity 99.78% (range 99.03–99.99%; 20 of 26 at or above 99.5%). Columns: product, lot number, lab report ID, HPLC purity, test date, link to the original PDF.</p><p>Limits: identity and purity only; no sterility, endotoxin, heavy-metal or residual-solvent testing. HPLC purity is not net peptide content. Products are sold for laboratory research use only.</p><p>Live version: https://novaforgelabs.co/lab-results-dataset</p>",
+  "creators": [{"name": "NovaForge Labs"}],
+  "license": "cc-by-4.0",
+  "keywords": ["peptides", "certificate of analysis", "HPLC", "LC-MS", "purity", "reference materials", "quality control"],
+  "related_identifiers": [{"identifier": "https://novaforgelabs.co/lab-results-dataset", "relation": "isSupplementTo", "scheme": "url"}]
+}
