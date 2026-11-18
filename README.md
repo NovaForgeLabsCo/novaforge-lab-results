@@ -1,5 +1,7 @@
 # NovaForge Labs lab results dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24327269.svg)](https://doi.org/10.5281/zenodo.24327269)
+
 Every certificate of analysis (COA) NovaForge Labs has published, in one machine-readable table.
 
 - **26 lot-specific results** from two independent US laboratories: Freedom Diagnostics (15) and ILS Laboratories (11)
@@ -30,6 +32,6 @@ Every certificate of analysis (COA) NovaForge Labs has published, in one machine
 
 Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may share and adapt the data for any purpose with attribution:
 
-> NovaForge Labs. *NovaForge Labs lab results dataset* (2026). https://novaforgelabs.co/lab-results-dataset
+> NovaForge Labs (2026). *NovaForge Labs lab results dataset*. Zenodo. https://doi.org/10.5281/zenodo.24327269
 
 All products are sold for laboratory research use only and are not for human or animal consumption.
